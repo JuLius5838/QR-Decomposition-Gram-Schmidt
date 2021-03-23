@@ -1,11 +1,3 @@
-'''
-TP2
-Julien Fresnel
-Aero3
-Classe A
-'''
-
-
 from TP2 import *
 from lib_LU_Chol import *
 import time
